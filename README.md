@@ -4,9 +4,10 @@
 
 
 ## Description :-
-##### • TMDB (The Movie Database ) is a community built movie and TV database. 
-##### • Analyzing why movies that cost over $100 million can still fail.
-##### • Total rows = 10127 and Total columns = 20.
+##### • TMDB (The Movie Database ) is a community built movie and TV database
+##### • Analyzing why movies that cost over $100 million can still fail
+##### • Total rows = 4803 and Total columns = 20
+##### • for my analysis , I have considered 5 columns - budget , genres , revenue , original title and runtime
 ##### • Analysis helps the company predict whether a movie will achieve commercial success. 
 ##### • Analyzing a movie dataset to identify what kinds of movies perform well in cinemas , which genres it belongs too.
 
