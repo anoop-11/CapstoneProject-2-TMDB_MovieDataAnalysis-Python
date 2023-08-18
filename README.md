@@ -14,6 +14,7 @@
 
 ## Approach :-
 ##### • Performing EDA (Exploratory Data Analysis ) using Python to analyze TMDB (The Movie Database) for improving the Company.
-##### • Performing EDA - Level 0 (Understanding the data)
+##### • Performing EDA :- 
+##### • Level 0 (Understanding the data)
 ##### • Level 1 - Uni-variate (Single Column Analysis)
 ##### • Level 2 - Bi-Variate
