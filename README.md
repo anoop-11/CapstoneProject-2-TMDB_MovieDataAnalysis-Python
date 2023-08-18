@@ -3,7 +3,7 @@
 ##### • Tool Used:- EDA (Exploratory Data Analysis) | Python with Python Libraries - (Pandas , Matplotlib , Seaborn)
 
 
-## Description :-
+## Description :
 ##### • TMDB (The Movie Database ) is a community built movie and TV database
 ##### • Analyzing why movies that cost over $100 million can still fail
 ##### • Total rows = 4803 and Total columns = 20
@@ -12,7 +12,7 @@
 ##### • Analyzing a movie dataset to identify what kinds of movies perform well in cinemas , which genres it belongs too.
 
 
-## Approach :-
+## Approach :
 ##### • Performing EDA (Exploratory Data Analysis ) using Python to analyze TMDB (The Movie Database) for improving the Company.
 ##### • Performing EDA :- 
 ##### • Level 0 (Understanding the data)
